@@ -1,2 +1,2 @@
 # DialogueSystem
-Dialogue system base prototype
+Dialogue system base prototype - Full unity project
