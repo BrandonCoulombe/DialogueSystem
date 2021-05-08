@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2dcbff9e139c84439b3f08ba62e4fa5, type: 3}
+  m_Name: ConversationExample2
+  m_EditorClassIdentifier: 
+  AutomaticConversation: 0
+  lines:
+  - Character: {fileID: 11400000, guid: 2bc6d693e47ea40498693068eca615ca, type: 2}
+    SpokeLast: 0
+    Text: 
+  - Character: {fileID: 11400000, guid: 8f94d37c29cef4d41bf2cbaf2cc8f95a, type: 2}
+    SpokeLast: 0
+    Text: 
